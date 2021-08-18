@@ -1,0 +1,101 @@
+
+body {
+  color: white;
+  margin: 0;
+}
+
+.btn-luxury {
+  color: hsl(179, 100%, 13%);
+}
+
+.btn-luxury:hover {
+  background-color: hsl(179, 100%, 13%);
+  border-color: white;
+  color: white;
+}
+
+
+.btn-sedans {
+  color: hsl(31, 77%, 52%);
+}
+
+.btn-sedans:hover {
+  background-color: hsl(31, 77%, 52%);
+  border-color: white;
+  color: white
+}
+
+
+.btn-suvs {
+  color: hsl(184, 100%, 22%);
+}
+
+.btn-suvs:hover {
+  background-color: hsl(184, 100%, 22%);
+  border-color: white;
+  color: white
+}
+
+
+
+button {
+  border-radius: 20px;
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+  position: relative;
+  left: 35%;
+  margin-bottom: 20%;
+  padding: 3% 9%;
+}
+
+
+
+
+div{
+  display: inline-block;
+  margin: 0;
+  width: 30%;
+}
+
+
+h1 {
+  font-family: 'Big Shoulders Display', cursive;
+  font-weight: 700;
+  position: relative;
+  left: 25%;
+}
+
+img {
+  left: 22%;
+  margin-top:20%;
+  position: relative;
+}
+
+.luxury {
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: hsl(179, 100%, 13%);
+  right: 1%;
+  position: relative;
+}
+
+p {
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: auto auto 40% auto;
+  width: 50%;
+}
+
+.sedans {
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+  background-color: hsl(31, 77%, 52%);
+
+}
+
+.suvs {
+  background-color: hsl(184, 100%, 22%);
+  right: 0.5%;
+  position: relative;
+}
