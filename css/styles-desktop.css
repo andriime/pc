@@ -1,5 +1,12 @@
 
 @media screen and (min-width: 1200px ) {
+  html,body, .super-div {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+  }
+
   body {
     color: white;
     margin: 0;
@@ -32,6 +39,7 @@ p{
 .sedans {
   background-color: hsl(31, 77%, 52%);
 }
+
 
 .suvs {
   background-color: hsl(184, 100%, 22%);
