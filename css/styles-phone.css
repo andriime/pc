@@ -1,0 +1,28 @@
+@media screen and (max-width: 1199px) {
+  button{
+    position: relative;
+    right: 10%;
+  }
+
+  div {
+    color: white;
+    width: 100%;
+  }
+
+
+  p {
+    width: 30%;
+    margin: auto auto 16% auto;
+  }
+
+  .sedans {
+    background-color: hsl(31, 77%, 52%);
+  }
+
+  .suvs {
+    background-color: hsl(184, 100%, 22%);
+  }
+
+
+
+}

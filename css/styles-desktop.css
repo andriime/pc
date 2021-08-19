@@ -1,0 +1,42 @@
+
+@media screen and (min-width: 1200px ) {
+  body {
+    color: white;
+    margin: 0;
+  }
+
+  button{
+    position: relative;
+    left: 35%;
+  }
+
+  div{
+    display: inline-block;
+    margin: 0;
+    width: 30%;
+  }
+
+
+.luxury {
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+  background-color: hsl(179, 100%, 13%);
+  right: 1%;
+  position: relative;
+}
+
+p{
+  margin:auto auto 39% auto;
+}
+
+.sedans {
+  background-color: hsl(31, 77%, 52%);
+}
+
+.suvs {
+  background-color: hsl(184, 100%, 22%);
+  right: 0.5%;
+  position: relative;
+}
+
+}
