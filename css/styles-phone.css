@@ -19,6 +19,11 @@
     background-color: hsl(31, 77%, 52%);
   }
 
+  .super-div {
+    display: flex;
+    flex-direction: column;
+  }
+
   .suvs {
     background-color: hsl(184, 100%, 22%);
   }

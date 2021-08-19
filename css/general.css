@@ -49,5 +49,6 @@ p {
     border-bottom-left-radius: 10px;
     border-top-left-radius: 10px;
   }
-
-.suvs {}
+.super-div{
+  width: 100%;
+}
